@@ -1,2 +1,2 @@
 # Portfolio
-Laxman kori personal portfolio
+Laxman kori personal portfolio.
