@@ -1,0 +1,43 @@
+@media (max-width: 767px) {
+    nav{
+        padding:  1rem 2rem;
+    }
+   nav ul{
+    display: none;
+   }
+   .hero_section_heading h2 {
+    font-size: 4vw;
+}
+.down_arrow{
+    bottom: -155%;
+}
+   #menu_icon ._shape{
+    display: block;
+   }
+   #menu_icon a{
+    display: flex;
+    flex-direction: column;
+   }
+   #mobile_menu{
+    display: block;
+    left: -85%;
+   }
+   #mobile_menu i{
+    font-size: 5vw;
+    margin-left: 1.5rem;
+    font-weight: 700;
+    cursor: pointer;
+   }
+   #mobile_menu ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-top: 3rem;
+    padding-left: 0;
+   }
+   #mobile_menu ul li a{
+    font-size: 5vw;
+    font-weight: 500;
+   }
+  }
